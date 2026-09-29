@@ -1,0 +1,2 @@
+# Maharashtra-Climate-Impact-Intelligence-Power-BI-Analytics-Project
+An interactive Power BI analytics project integrating Maharashtra’s weather, agriculture, and public health data from 2020–2025. The project explores climate patterns, crop production, agricultural performance, and disease trends through an interactive dashboard with dynamic filters, DAX measures, data modeling, and tooltip-based analysis.
