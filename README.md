@@ -8,12 +8,12 @@ An interactive Power BI analytics project integrating Maharashtra’s weather, a
 - 📊 Regional & Seasonal Trends
 - 🔎 Interactive Tooltip Analysis
 
-Weather Analysis — temperature, rainfall, humidity and wind-speed trends
-Agricultural Analysis — crop production, yield, regions and seasons
-Health Analysis — disease cases, deaths and district-wise disease burden
-Geographical Analysis — district and regional comparisons
-Trend Analysis — changes across 2020–2025
-Cross-domain Analysis — exploratory relationships between weather, agriculture and health
+Weather Analysis — temperature, rainfall, humidity and wind-speed trends.
+Agricultural Analysis — crop production, yield, regions and seasons.
+Health Analysis — disease cases, deaths and district-wise disease burden.
+Geographical Analysis — district and regional comparisons.
+Trend Analysis — changes across 2020–2025.
+Cross-domain Analysis — exploratory relationships between weather, agriculture and health.
 
 # Tools & Technologies
 - Power BI
